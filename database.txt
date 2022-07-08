@@ -1,0 +1,6 @@
+   1   Apple   90   2
+   2   Mango   120   6
+   3   Graphs   80   3
+   4   Banana   85   5
+   5   Oranges   100   6
+   6   Cherry   110   7
