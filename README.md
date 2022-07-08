@@ -1,1 +1,1 @@
-# Super-Market-Billing-Sytem-with-c-
+# Super-Market-Billing-Sytem-with-C++
